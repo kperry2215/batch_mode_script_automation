@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 This is the sample Python file that we want to automate in batch mode
 """
