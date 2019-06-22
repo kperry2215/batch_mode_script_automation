@@ -1,3 +1,3 @@
-cd "C:\Users\kirsten.perry\OneDrive - BP - L48\Documents\Blog\BatchMode"
+cd "C:\Users\Documents\Blog\BatchMode"
 
 python python_example_script.py
